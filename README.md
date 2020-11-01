@@ -7,7 +7,7 @@
 
 ## References
 
-   http://www.wou.edu/~broegb/Cs345/MaxSubsequenceSum.pdf
+   https://en.wikipedia.org/wiki/Maximum_subarray_problem
  
  
 
