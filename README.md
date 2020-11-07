@@ -8,6 +8,9 @@
 ## References
 
    https://en.wikipedia.org/wiki/Maximum_subarray_problem
+   
+In action https://ideone.com/uLuGPX (c++)   
+          https://ideone.com/ZkDQRX (ruby)
  
  
 
