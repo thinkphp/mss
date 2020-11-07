@@ -9,7 +9,7 @@
 
    https://en.wikipedia.org/wiki/Maximum_subarray_problem
    
-In action 
+## In action 
          * https://ideone.com/uLuGPX (c++)   
          * https://ideone.com/ZkDQRX (ruby)
          * https://ideone.com/g5MiAz (C lang)
