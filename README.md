@@ -13,7 +13,8 @@
 
 https://ideone.com/uLuGPX (c++)   
 https://ideone.com/ZkDQRX (ruby)
-https://ideone.com/g5MiAz (C lang)
+https://ideone.com/g5MiAz (C language)
+https://ideone.com/3jZMWP (version 2 using Type Array C language)
  
  
 
